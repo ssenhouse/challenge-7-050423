@@ -12,6 +12,7 @@ The purpose of this challenge was to analyze ETF data from a SQL database. Use S
 This project leverages python 3.7 specifically and assumes that jupyter lab has been installed. In additon, you would need to have the following modules installed:
 * pandas
 * hvplot
+* sqlalchemy
 
 ## Resources
 * Data provided by Columbia FinTech program.
