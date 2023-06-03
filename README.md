@@ -4,7 +4,7 @@
 ---
 ## Passive investing
 
-![Image used from original FinTech challenge files](/Starter_Code/Images/7-4-challenge-image.png)
+![Image used from original FinTech challenge files](/Starter_Code/images/7-4-challenge-image.png)
 The purpose of this challenge was to analyze ETF data from a SQL database. Use SQL queries to pull data from the database
 
 ## Technologies
@@ -23,7 +23,7 @@ Historical data and challenge questions provided by Columbia FinTech progam.
 Analysis, code, and conclusions completed by Sean Senhouse
 
 ## Installation Guide
-### To review challenge 6:
+### To review challenge 7:
 
 * First initialze the dev environment and the Jupyter lab by typing the following at the command prompt:  
 
